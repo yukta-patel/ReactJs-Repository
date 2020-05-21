@@ -1,0 +1,23 @@
+creat app :-
+npx create-react-app my-app
+
+redux-thunk :-
+npm install --save redux-thunk
+
+react-redux
+npm install --save react-redux
+
+redux
+npm install --save redux
+
+@reach/router :-
+npm install @reach/router
+
+axios :-
+npm install axios
+
+bootstrap :-
+npm install --save bootstrap
+
+reactstrap :-
+npm install --save reactstrap react react-dom
